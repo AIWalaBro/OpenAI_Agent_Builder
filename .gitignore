@@ -1,4 +1,4 @@
-.env /
-.venv_openai_agent_builder /
+.env
+.venv_openai_agent_builder/
 __pycache__/
 
